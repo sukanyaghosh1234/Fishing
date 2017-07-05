@@ -1,0 +1,37 @@
+	#myFishingGame{
+		border: 5px solid black;
+		background-image: url("bg.gif");
+		background-repeat: no-repeat;
+		background-size: 100%;
+		margin-left: 25%; 
+		background-size: cover;
+	}
+	div{
+		color: red;
+	}
+	body{
+		background-image: url("bg2.jpg");
+		background-size: 100%;
+	}
+	#space{
+		padding-left: 40%;
+		color:yellow;
+		font-size: 24px;
+		font-family: sans-serif;
+	}
+	#space1{
+		padding-left: 25%;
+		color: yellow;
+		font-size: 24px;
+		font-family: sans-serif;
+	}
+	#collisions{
+		font-size: 24px;
+		color:yellow;
+	}
+	#timer{
+		font-size: 24px;
+		color: yellow;
+		padding-left: 5px;
+	}
+
